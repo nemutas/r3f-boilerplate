@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/r3f-boilerplate/static/css/main.c67338bd.chunk.css",
+    "main.js": "/r3f-boilerplate/static/js/main.d5e2df1c.chunk.js",
+    "main.js.map": "/r3f-boilerplate/static/js/main.d5e2df1c.chunk.js.map",
+    "runtime-main.js": "/r3f-boilerplate/static/js/runtime-main.0cf76f53.js",
+    "runtime-main.js.map": "/r3f-boilerplate/static/js/runtime-main.0cf76f53.js.map",
+    "static/js/2.fac0cfb7.chunk.js": "/r3f-boilerplate/static/js/2.fac0cfb7.chunk.js",
+    "static/js/2.fac0cfb7.chunk.js.map": "/r3f-boilerplate/static/js/2.fac0cfb7.chunk.js.map",
+    "static/js/3.912faede.chunk.js": "/r3f-boilerplate/static/js/3.912faede.chunk.js",
+    "static/js/3.912faede.chunk.js.map": "/r3f-boilerplate/static/js/3.912faede.chunk.js.map",
+    "index.html": "/r3f-boilerplate/index.html",
+    "static/css/main.c67338bd.chunk.css.map": "/r3f-boilerplate/static/css/main.c67338bd.chunk.css.map",
+    "static/js/2.fac0cfb7.chunk.js.LICENSE.txt": "/r3f-boilerplate/static/js/2.fac0cfb7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0cf76f53.js",
+    "static/js/2.fac0cfb7.chunk.js",
+    "static/css/main.c67338bd.chunk.css",
+    "static/js/main.d5e2df1c.chunk.js"
+  ]
+}
